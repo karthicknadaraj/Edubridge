@@ -10,11 +10,11 @@
         
 **Tools Used:**
 
-        Anaconda,
+        Anaconda
         
-        Tableau, 
+        Tableau 
         
-        Excel.
+        Excel
 
         
         
