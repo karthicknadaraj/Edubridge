@@ -4,11 +4,12 @@
 
 **Contents:**
 
-          Assignments, 
+          Assignments 
           
           Projects (Group and Individual)
         
 **Tools Used:**
+
         Anaconda,
         
         Tableau, 
