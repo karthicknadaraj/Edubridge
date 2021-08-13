@@ -6,9 +6,9 @@
           Projects (Group and Individual)
         
 **Tools Used:**
-        *Anaconda, 
-        *Tableau, 
-        *Excel.
+        > Anaconda, 
+        > Tableau, 
+        > Excel.
 
         
         
