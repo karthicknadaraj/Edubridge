@@ -3,5 +3,5 @@
       provided by **EduBridge India**.
 
 **Contents:**
-       Assignments
+       Assignments, 
        Projects (Group and Individual)
