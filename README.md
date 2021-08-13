@@ -1,1 +1,1 @@
-This repository contains all the Assignments, Projects done by during Pg diploma Data Analytics course.
+This repository contains all the Assignments, Projects done by during PG diploma Data Analytics course.
