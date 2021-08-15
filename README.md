@@ -1,7 +1,7 @@
 **Description:**
 
       It contains some Projects,Assignments that I learned in Data Analysis 
-      under the training provided by **Edubridge India.**
+      under the training provided by **Edubridge India.** **bold**
 
 **Contents:**
 
