@@ -1,1 +1,3 @@
-This Section is about my project works in PG Data Analytics Course
+**Projects**:
+ 
+            This folder contains the Project works done in Data Analytics course.
