@@ -1,1 +1,5 @@
-This project is about super market dashboard created in data visualisation tool Tableau.
+**Name of the Project** : Sample Supermarket Dashboard
+
+**Source** : Available on kaggle
+
+**Tools Used** : Tableau
