@@ -3,7 +3,7 @@
       It contains some Projects,Assignments that I learned in Data Analysis 
       under the training provided by **Edubridge India.**
 
-***Contents:**
+**Contents:**
 
           Assignments 
           
