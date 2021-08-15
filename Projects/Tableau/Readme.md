@@ -2,6 +2,6 @@
 
 **Source** : Available on kaggle
 
-**Type of file** : 
+**Type of file** : Microsoft Excel Worksheet (.xlsx)
 
 **Tools Used** : Tableau
