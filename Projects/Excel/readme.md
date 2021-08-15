@@ -4,6 +4,6 @@
 
 **Type of file** :  Microsoft Excel Worksheet (.xlsx)
 
-**Aim of Project**: This is about the Super Store Sales 2016 to check the Monthly Sales, Week Sales, Day Sales of the data.
+**Aim of Project** : This is about the Super Store Sales 2016 to check the Monthly Sales, Week Sales, Day Sales of the data.
 
 **Tools Used** :    Excel
