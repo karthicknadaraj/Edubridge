@@ -1,4 +1,4 @@
-**Project Title** : _Super Store Sales 2016_
+**Project Title** : Super Store Sales 2016
 
 **Source** : _(Available in the Folder)_
 
