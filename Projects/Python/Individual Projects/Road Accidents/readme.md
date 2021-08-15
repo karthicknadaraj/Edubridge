@@ -1,4 +1,4 @@
-Name of the Project : Road Accidents
+**Name of the Project** : Road Accidents
 
 
-Dataset available on : Kaggle
+**Dataset available on** : Kaggle
