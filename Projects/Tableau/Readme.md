@@ -2,4 +2,6 @@
 
 **Source** : Available on kaggle
 
+**Type of file** : 
+
 **Tools Used** : Tableau
