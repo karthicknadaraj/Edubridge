@@ -1,4 +1,7 @@
-In this analysis, we used the diabetic patient health management follow-up data.
+**Name : Pima Indian Diabetes**
 
-We have combined feature selection and imbalanced processing techniques.
+**Tools used: R Studio**
 
+**Language : R**
+
+**Dataset available on : www.kaggle.com**
